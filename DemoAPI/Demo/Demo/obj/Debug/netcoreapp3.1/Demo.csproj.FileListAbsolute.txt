@@ -1,0 +1,31 @@
+E:\Temp\DemoAPI\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+E:\Temp\DemoAPI\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+E:\Temp\DemoAPI\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+E:\Temp\DemoAPI\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+E:\Temp\DemoAPI\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+E:\Temp\DemoAPI\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+E:\Temp\DemoAPI\Demo\Demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Temp\DemoAPI\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Temp\DemoAPI\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+E:\Temp\DemoAPI\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+E:\Temp\DemoAPI\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+E:\Temp\DemoAPI\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CopyComplete
+E:\Temp\DemoAPI\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+E:\Temp\DemoAPI\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+E:\Temp\DemoAPI\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache
+F:\Acrobate auto sign in\DemoAPI\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+F:\Acrobate auto sign in\DemoAPI\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+F:\Acrobate auto sign in\DemoAPI\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+F:\Acrobate auto sign in\DemoAPI\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+F:\Acrobate auto sign in\DemoAPI\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+F:\Acrobate auto sign in\DemoAPI\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+F:\Acrobate auto sign in\DemoAPI\Demo\Demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Acrobate auto sign in\DemoAPI\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
+F:\Acrobate auto sign in\DemoAPI\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Acrobate auto sign in\DemoAPI\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+F:\Acrobate auto sign in\DemoAPI\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+F:\Acrobate auto sign in\DemoAPI\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+F:\Acrobate auto sign in\DemoAPI\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CopyComplete
+F:\Acrobate auto sign in\DemoAPI\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+F:\Acrobate auto sign in\DemoAPI\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+F:\Acrobate auto sign in\DemoAPI\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache

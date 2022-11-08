@@ -1,0 +1,1 @@
+https:/secure.echosign.com/public/oauth/v2?redirect_uri=https://oauth.pstmn.io/v1/callback&response_type=code&client_id=CBJCHBCAABAA088HhHpSbMGdjXhAupcswWgoWT0l4R8r&scope=user_read:account+user_write:account+user_login:account+agreement_read:account+agreement_write:account+agreement_send:account+library_read:account+library_write:account
